@@ -1,0 +1,9 @@
+﻿Energy Type,CF (%),GHG Emission Rate (g/kWh),Physical Waste Per Year in the US(Metric Tons), Energy Contribution in the US (%),Estimated Workplace Deaths per Year
+Nuclear,92.70,5.75,2000,20,0.03
+Geothermal,71,122,0,0.4,NaN
+Natural gas,54.40,439.98,0,29,3
+Coal,49.30,1025.12,110000000,19.5,25
+Hydroelectric,37.10,24,0,6.2,1
+Wind,34.60,11,175000,10.1,0.04
+Solar,17.50,50,30000,4.7,0.02
+Other,NaN,NaN,NaN,10.1,NaN
